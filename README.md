@@ -5,7 +5,10 @@
  Essentially the question being explored is summarized in this slide:
  ![](https://github.com/hrideshkedia/bistable-spring-net/blob/main/figs/intro.jpeg)
  
-What we find, surprisingly, is:
+ 
+#### What we find, surprisingly, is:
+
+
 ![](https://github.com/hrideshkedia/bistable-spring-net/blob/main/figs/punch.jpeg)
  
  For the details of the story, please see the paper ["Drive-specific adaptation in disordered mechanical networks of bistable springs"](https://arxiv.org/abs/1908.09332).
